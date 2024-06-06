@@ -1,4 +1,4 @@
-print("Donverse Pyramid ankit")
+print("Change from Main Branch")
 rows = int(input("Enter total rows: "))
 for i in range(rows):
     for j in range(i):

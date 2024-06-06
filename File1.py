@@ -1,4 +1,4 @@
-print("Inverse Pyramid")
+print("Inverse Pyramid ankit")
 rows = int(input("Enter total rows: "))
 for i in range(rows):
     for j in range(i):
